@@ -26,7 +26,7 @@ bundle update jekyll-theme-hydejack
 ## PRO Version
 
 In v9, the structure of Hydejack PRO sites has changed. If you're looking to upgrade from v8 or earlier, 
-check out [Installation for existing sites](install.md#existing-sites) instead.
+check out [Installation for existing sites](./install.md#existing-sites) instead.
 {:.note}
 
 Buyers of the PRO version will find the files necessary for an upgrade in the `#jekyll-theme-hydejack` folder of the downloaded zip archive.

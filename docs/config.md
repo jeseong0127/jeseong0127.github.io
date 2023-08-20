@@ -212,7 +212,7 @@ paginate:      10
 paginate_path: /my-blog/:num/ #!!
 ~~~
 
-To add an entry in the sidebar to your blog directory, see [Adding an entry to the sidebar](basics.md#adding-an-entry-to-the-sidebar).
+To add an entry in the sidebar to your blog directory, see [Adding an entry to the sidebar](./basics.md#adding-an-entry-to-the-sidebar).
 
 
 ## Adding an author

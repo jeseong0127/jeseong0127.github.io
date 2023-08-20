@@ -197,7 +197,7 @@ July 7 2020
 July 6 2020
 {:.heading.post-date}
 
-* Changing app icons has been revamped. See [this section](docs/config.md#adding-custom-favicons-and-app-icons) in the docs.
+* Changing app icons has been revamped. See [this section](./docs/config.md#adding-custom-favicons-and-app-icons) in the docs.
 * Changed default icons
 * Changed default sidebar background
 * Added `jekyll-compose` defaults to config file
@@ -249,7 +249,7 @@ July 7 2020
 July 6 2020
 {:.heading.post-date}
 
-* Changing app icons has been revamped. See [this section](docs/config.md#adding-custom-favicons-and-app-icons) in the docs.
+* Changing app icons has been revamped. See [this section](./docs/config.md#adding-custom-favicons-and-app-icons) in the docs.
 * Changed default icons
 * Changed default sidebar background
 * Added `jekyll-compose` defaults to config file
